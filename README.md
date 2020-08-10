@@ -11,6 +11,8 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+[![Jacksole's github stats](https://github-readme-stats.vercel.app/api?username=jacksole&count_private=true&show_icons=truetheme=cobalt)](https://github.com/jacksole/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacksole&layout=compact)](https://github.com/jacksole/github-readme-stats)
 
 <!--
 **Jacksole/Jacksole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
