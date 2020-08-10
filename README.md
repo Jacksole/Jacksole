@@ -11,7 +11,10 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+## Github Stats
 [![Jacksole's github stats](https://github-readme-stats.vercel.app/api?username=jacksole&count_private=true&show_icons=truetheme=cobalt)](https://github.com/jacksole/github-readme-stats)
+
+## Top Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacksole&layout=compact)](https://github.com/jacksole/github-readme-stats)
 
 <!--
