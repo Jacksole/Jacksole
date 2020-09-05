@@ -1,7 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working on learning as much as I can while I can
 - 🌱 I’m currently learning White Hat Hacking, Software Development(Full-Stack), Python, Powershell and Bash 
-- 👯 I’m looking to collaborate on ![WWA](https://github.com/warofants/wwa) 
+- 👯 I’m looking to collaborate on any open source projects I can
+- 👯 Currently collabing on ![WWA](https://github.com/warofants/wwa) 
 - 🤔 I’m looking for help with becoming a system admin and from there a Sofware Developer with a focus on Cloud Development and Security
 - 📫 How to reach me: 1. [Linkedin](https://www.linkedin.com/in/le-aundre-jackson-00812327/) 2. [Twitter](https://twitter.com/Dre_MF_Jackson)
 - 😄 Pronouns: Him/He
