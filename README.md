@@ -8,9 +8,10 @@
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact: Slight double jointed in my fingers
 
-## Lastest Blog Post
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## What I use
+| Vim | Powershell | Python     |
+|:---:|------------|------------|
+| Git | Bash       | JavaScript |
 
 ## Github Stats
 [![Jacksole's github stats](https://github-readme-stats.vercel.app/api?username=jacksole&count_private=true&show_icons=truetheme=cobalt)](https://github.com/jacksole/github-readme-stats)
