@@ -16,6 +16,9 @@
 ## Github Stats
 [![Jacksole's github stats](https://github-readme-stats.vercel.app/api?username=jacksole&count_private=true&show_icons=truetheme=cobalt)](https://github.com/jacksole/github-readme-stats)
 
+## 🎧 Spotify Playing
+[![Christian Pop Music](https://img.shields.io/badge/Christian%20Pop%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0eufhXK7WPSiiwPcaz3Jq7?si=839465c918394657) [![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ)
+
 ## Top Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacksole&layout=compact)](https://github.com/jacksole/github-readme-stats)
 
